@@ -1,4 +1,4 @@
-I will start solving based on this list [75 curated code interview exercises](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0)
+I will start solving based on this list [75 curated code interview exercises](https://gist.github.com/krishnadey30/88c4e2f601e96597974c00185e479532) but the goal is to finish all 150 exercises proposed by [neetcode](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0)
 
 These exercises are structured as [neetcode](https://neetcode.io/) suggestion that can be originally see on [this link](https://neetcode.io/roadmap).
 ![NeetCode Exercises Graph](/assets/imgs/neet_code_exercises_graph.png)

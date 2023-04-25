@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+# My submission: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/939253420/
 # leetcode stats
 # Runtime: 939ms, beats 90.26%
 # memory: 24.9mb, beats 96.83%

@@ -3,12 +3,16 @@ I will start solving based on this list [75 curated code interview exercises](ht
 These exercises are structured as [neetcode](https://neetcode.io/) suggestion that can be originally see on [this link](https://neetcode.io/roadmap).
 ![NeetCode Exercises Graph](/assets/imgs/neet_code_exercises_graph.png)
 
-
+## How to run tests
+On terminal:
+```bash
+pytest --doctest-modules
+```
 ## Array
 
-- [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
-- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [X] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [X] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [X] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)

@@ -11,6 +11,8 @@
 >>> max_profit([2,4,1])
 2
 """
+
+
 def max_profit(prices: list[int]) -> int:
     min_price = float("inf")
     max_price = float("-inf")
@@ -18,7 +20,7 @@ def max_profit(prices: list[int]) -> int:
     for price in prices:
         if price < min_price:
             min_price = price
-            # trick to restart profit calculus on next iteration. 
+            # trick to restart profit calculus on next iteration.
             # Avoid to run all over the array again
             max_price = float("-inf")
         elif price > max_price:

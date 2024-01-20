@@ -12,6 +12,7 @@ False
 True
 """
 
+
 def contains_duplicate(nums: list[int]) -> bool:
     # leverages from python set
     # another way is to iterate over nums adding to a set and verifying if the element

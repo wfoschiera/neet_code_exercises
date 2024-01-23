@@ -1,6 +1,10 @@
 # https://leetcode.com/problems/group-anagrams/
-
+# https://leetcode.com/problems/group-anagrams/submissions/1154158683
+# leetcode stats
+# Runtime: 88, beats 79.47%
+# memory: 19.64mb, beats 86.32%
 """
+
 Given an array of strings strs, group the anagrams together. You can return the answer in any order.
 
 An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
